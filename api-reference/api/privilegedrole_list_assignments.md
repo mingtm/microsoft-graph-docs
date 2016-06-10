@@ -1,6 +1,6 @@
 # List assignments
 
-Retrieve a list of privilegedRoleAssignment objects that are associated with the role.
+Retrieve a list of privilegedRoleAssignment objects that are associated with the role. Each privilegedRoleAssignment represents a role assignment to a user.
 ### Prerequisites
 The following **scopes** are required to execute this API: _Directory.AccessAsUser.All_
 

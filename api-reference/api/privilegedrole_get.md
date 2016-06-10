@@ -1,6 +1,6 @@
 # Get privilegedRole
 
-Retrieve the properties and relationships of [privilegedRole](privilegedrole.md) object. 
+Retrieve the properties and relationships of [privilegedRole](../resources/privilegedrole.md) object. 
 
 ### Prerequisites
 The following **scopes** are required to execute this API: _Directory.AccessAsUser.All_

@@ -1,5 +1,5 @@
 # privilegedRoleAssignment: makeEligible
-Make the permanent role assignment as eligible. If the role assignment is already eligible before the call, it doesn't nothing. If the role assignment is permanent and the requestor is different from the target user, the role assignment will become eligible and the role will be deactivated for the target user. If the requestor is the target user and the role is Security Administrator or Privileged Role Administrator, the role will be activate with the default expiration.
+Make the role assignment as eligible. If the role assignment is already eligible before the call, it does nothing. If the role assignment is permanent and the requestor is different from the target user, the role assignment will become eligible and the role will be deactivated for the target user. If the requestor is the target user and the role is Security Administrator or Privileged Role Administrator, the role will be activated with the default expiration.
 
 ### Prerequisites
 The following **scopes** are required to execute this API: _Directory.AccessAsUser.All_

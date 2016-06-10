@@ -1,6 +1,6 @@
 # List privilegedRoles
 
-Retrieve a list of [privilegedRole](privilegedrole.md) objects.
+Retrieve a list of [privilegedRole](../resources/privilegedrole.md) objects.
 
 To filter the results from the query, use the standard OData ``$filter`` expressions in the URIs.
 ### Prerequisites
